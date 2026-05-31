@@ -1,0 +1,6 @@
+# 核心依赖（Python 标准库）
+# 本工具仅使用 tkinter（Python 内置 GUI 库），无需额外安装依赖包
+#
+# 如需打包为 exe，可选用以下工具之一：
+# cx-freeze     # 通过 setup.py 打包
+# pyinstaller   # 通过 pyinstaller/conductivity.spec 打包

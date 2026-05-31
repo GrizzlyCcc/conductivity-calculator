@@ -1,0 +1,32 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 构建输出
+build/
+*.egg-info/
+*.egg
+.eggs/
+
+# PyInstaller 构建输出
+pyinstaller/build/
+pyinstaller/dist/
+
+# 虚拟环境
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
